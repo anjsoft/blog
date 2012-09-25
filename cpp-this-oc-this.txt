@@ -1,2 +1,4 @@
-c++ this 与 object c self 的着别
-object c
+c++ this 与 object c self 的差别，
+c++ 中，子类没有的方法，执行时，会进入父类中，些时this 代表父类
+ojbect c中，子类没有的方法，执行时，父类中方法会进入子类，self 总是代表调用者，也就是消息接收者。
+相关文件：object-c-self.m cpp-this.cpp
