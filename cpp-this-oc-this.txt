@@ -1,0 +1,2 @@
+c++ this 与 object c self 的着别
+object c
